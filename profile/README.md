@@ -4,4 +4,4 @@
 
 A modern OJ system developed for OI training.
 
-[文档](https://blog.yxzl.dev/genuine-oj/) | Documents
+[文档](https://yxzl.dev/genuine-oj/) | Documents
